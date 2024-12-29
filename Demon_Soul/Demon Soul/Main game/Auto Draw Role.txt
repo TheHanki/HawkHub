@@ -1,5 +1,0 @@
-local args = {
-    [1] = false
-}
-
-game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvents"):WaitForChild("DrawRole"):FireServer(unpack(args))

@@ -1,4 +1,0 @@
-while wait() do 
-game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvents"):WaitForChild("GeneralAttack"):FireServer()
-
-end
